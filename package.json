@@ -1,6 +1,6 @@
 {
   "name": "react-autosize-textarea",
-  "version": "7.1.0",
+  "version": "7.2.0",
   "description": "replacement for built-in textarea which auto resizes itself",
   "main": "lib",
   "typings": "lib",
@@ -55,9 +55,9 @@
     "node-sass": "^4.8.3",
     "progress-bar-webpack-plugin": "^1.10.0",
     "raw-loader": "^0.5.1",
-    "react": "^16",
+    "react": "0.14 - 18.x",
+    "react-dom": "0.14 - 18.x",
     "react-docgen-typescript": "^1.1.0",
-    "react-dom": "^16",
     "react-styleguidist": "^6.0.33",
     "react-test-renderer": "^16.2.0",
     "require-dir": "^0.3.0",
@@ -71,8 +71,8 @@
     "webpack": "3.5.5"
   },
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0 || ^16.0.0",
-    "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0"
+    "react": "0.14 - 18.x",
+    "react-dom": "0.14 - 18.x"
   },
   "dependencies": {
     "autosize": "^4.0.2",
