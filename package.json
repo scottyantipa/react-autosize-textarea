@@ -57,7 +57,6 @@
     "raw-loader": "^0.5.1",
     "react": "0.14 - 18.x",
     "react-dom": "0.14 - 18.x",
-    "react-docgen-typescript": "^1.1.0",
     "react-styleguidist": "^6.0.33",
     "react-test-renderer": "^16.2.0",
     "require-dir": "^0.3.0",
